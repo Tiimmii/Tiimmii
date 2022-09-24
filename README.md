@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CRM app-1**
 
-- 🌱 I’m currently learning **Django Class Based Views**
+- 🌱 I’m currently learning **Django All Auth Package**
 
 - 👯 I’m looking to collaborate on **Frontend and backend web development projects**
 
