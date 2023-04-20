@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and backend web development projects**
 
-- 💬 Ask me about **Backend Development using django and python**
+- 💬 Ask me about **Backend Development using django, python Frontend development using HTML, CSS, Django**
 
 - 📫 How to reach me **danieloluwoleoluwatimileyin@gmail.com**
 
