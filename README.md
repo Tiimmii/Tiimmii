@@ -36,7 +36,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiimmii&show_icons=true&locale=en&layout=compact" alt="tiimmii" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiimmii&hide_progress=true)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiimmii)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiimmii&show_icons=true&locale=en" alt="tiimmii" /></p>
 
