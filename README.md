@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Tiimmii&style=for-the-badge&color=brightgreen)
 
-- 🔭 I’m currently working on **django rest_framwork**
+- 🔭 I’m currently working on **django rest_framework**
 
 - 🌱 I’m currently learning **javascript, Apis & DjangoRestFramework**
 
