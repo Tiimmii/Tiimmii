@@ -35,9 +35,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiimmii&hide_progress=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiimmii&hide_progress=false)<br/>
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiimmii)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiimmii&show_icons=true&theme=radical)<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiimmii&" alt="tiimmii" /></p>
 
