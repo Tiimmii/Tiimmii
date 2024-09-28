@@ -35,7 +35,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiimmii&hide_progress=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiimmii&hide_progress=True)<br/>
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiimmii)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
