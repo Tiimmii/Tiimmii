@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Watermarklify**
 
-- 🌱 I’m currently learning **javascript, Apis & DjangoRestFramework**
+- 🌱 I’m currently learning **React & Typescript**
 
 - 👯 I’m looking to collaborate on **Frontend and backend web development projects**
 
