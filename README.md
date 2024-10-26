@@ -25,7 +25,7 @@
 <h2>SKILLS </h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,vite,wordpress,python,typescript,django,html,css,tailwind,docker,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=react,js,vite,wordpress,python,typescript,django,html,css,scss,tailwind,docker,bootstrap,git" />
   </a>
 </p>
 
