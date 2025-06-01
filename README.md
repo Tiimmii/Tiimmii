@@ -1,17 +1,17 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heyy....Hi,..I'm+Timmi!👋;" />
 </h1>
-<h3 align="center">A passionate Fullstack web developer</h3>
+<h3 align="center">I'm a software engineer</h3>
 
 ![](https://komarev.com/ghpvc/?username=Tiimmii&style=for-the-badge&color=brightgreen)
 
-- 🔭 I’m currently working on **Watermarklify API**
+- 🔭 I’m currently working on **Ryde(An uber clone)**
 
-- 🌱 I’m currently learning **React & Typescript**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Frontend and backend web development projects**
+- 👯 I’m looking to collaborate on **Web and Mobile development projects**
 
-- 💬 Ask me about **Programming using Python, Backend Development using django and Frontend development using HTML, CSS, Javascript, WordPress, React & Typescript**
+- 💬 Ask me about **Programming using Python, Mobile app Development using react Native, Backend Development using django and Frontend development WordPress, React, Next.js & Typescript**
 
 - 📫 How to reach me **danieloluwoleoluwatimileyin@gmail.com**
 
