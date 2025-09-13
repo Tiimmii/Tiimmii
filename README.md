@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Ryde(An uber clone)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and Spring-boot**
 
 - 👯 I’m looking to collaborate on **Web and Mobile development projects**
 
-- 💬 Ask me about **Programming using Python, Mobile app Development using react Native, Backend Development using django and Frontend development using WordPress, React, Next.js & Typescript**
+- 💬 Ask me about **Programming, FrontEnd and Backend Development**
 
 - 📫 How to reach me **danieloluwoleoluwatimileyin@gmail.com**
 
